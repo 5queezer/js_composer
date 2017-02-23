@@ -1,0 +1,14 @@
+{
+    "name": "nextt/js_composer",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "dist": {
+        "url": "gitlab@dev.nextt.com.br:wp/js_composer.git",
+        "type": "git"
+    },
+    "source": {
+        "url": "gitlab@dev.nextt.com.br:wp/js_composer.git",
+        "type": "git",
+        "reference": "develop"
+    }
+}
